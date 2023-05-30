@@ -1,1 +1,8 @@
 JavaServices merupakan salah satu proyek yang saya kerjakan selama magang di Bank Central Asia dan proyek ini menggunakan Spring Boot dengan Java sebagai bahasa pemrogramannya.
+Dependency yang digunakan adalah:
+
+-Spring Web (komponen Spring utama yang dibutuhkan untuk membuat aplikasi Spring Web atau REST API dengan Spring)
+-Spring Data JPA (diperlukan untuk berinteraksi dengan database tanpa harus membuat koneksi dan query secara manual)
+-Lombok (library yang sangat berguna untuk memudahkan dalam menuliskan program Java, terutama untuk mempersingkat dan mengurangi redundansi yang tidak perlu)
+-MS SQL Server Driver  (driver yang diperlukan untuk koneksi ke database kita yaitu SQL Server)
+-Spring Boot Devtools (library ini akan memudahkan dalam proses development terutama untuk hot reload)
